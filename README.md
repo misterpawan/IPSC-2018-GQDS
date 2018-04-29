@@ -1,1 +1,2 @@
-# IPSC-2018-GQDS
+# GQSD
+Grover's Quantum Database Search on Microsoft Quantum Development Kit
